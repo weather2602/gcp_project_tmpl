@@ -1,2 +1,2 @@
-# gcp_project
-Practice project for GCP.
+# gcp_project_tmpl
+Practice project for GCP Template.
